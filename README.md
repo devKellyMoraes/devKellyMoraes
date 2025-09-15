@@ -5,5 +5,5 @@
 - 👯 Quero colaborar em projetos de back-end e automação em Python.
 - ⚡ Curiosidade: Amo videogames, filmes e tecnologia, e estou construindo meu portfólio de programação enquanto estudo.
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devKellyMoraes&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devKellyMoraes&layout=compact&theme=dracula)
 
